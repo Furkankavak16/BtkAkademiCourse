@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "BtkAkademi\Struct.csproj", "{EB3DCEB4-A7C1-46B9-91EC-40F2162DAADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Limits", "Limits\Limits.csproj", "{80093CC2-D65D-4F55-896C-F55BE0ACE3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3DCEB4-A7C1-46B9-91EC-40F2162DAADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3DCEB4-A7C1-46B9-91EC-40F2162DAADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3DCEB4-A7C1-46B9-91EC-40F2162DAADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3DCEB4-A7C1-46B9-91EC-40F2162DAADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80093CC2-D65D-4F55-896C-F55BE0ACE3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80093CC2-D65D-4F55-896C-F55BE0ACE3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80093CC2-D65D-4F55-896C-F55BE0ACE3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80093CC2-D65D-4F55-896C-F55BE0ACE3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD6FD06-82A5-41A3-BFE7-4028FF30AB8C}
+	EndGlobalSection
+EndGlobal
